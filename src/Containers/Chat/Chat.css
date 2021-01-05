@@ -1,0 +1,7 @@
+.chat {
+    display: flex;
+    width: 100rem;
+    height: 50rem;
+    border: 2px solid black;
+    box-sizing: border-box;
+}

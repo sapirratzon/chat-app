@@ -1,0 +1,20 @@
+.message {
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    width: 60%;
+}
+
+.message > p {
+    display: inline-flex;
+    margin: 0 11px 2px;
+}
+
+.username {
+    margin-left: 3px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
